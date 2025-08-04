@@ -2,7 +2,7 @@
 
 Terraform module which creates ACM certificates and validates them using Route53 DNS (recommended) or e-mail.
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 
 ## Usage with Route53 DNS validation (recommended)
 
